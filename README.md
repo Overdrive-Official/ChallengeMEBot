@@ -1,5 +1,5 @@
 # ChallengeME
-  ChallengeME est un bot programmé en C# permettant de challenge dans plusieurs domaines de l'informatique. ChallengeME n'est pas OpenSource a 100% , Seulement sa partie challenge dans le core et dans les modules. Vous êtes les bienvenues a le modifier.
+  ChallengeME est un bot programmé en C# permettant de challenge dans plusieurs domaines de l'informatique. Il n'est pas OpenSource a 100% , Seulement sa partie challenge dans le core et dans les modules. Vous êtes les bienvenues a le modifier.
 
 Vous pouvez rejoindre mon Discord ICI : https://discord.gg/H4gpmXk
 
